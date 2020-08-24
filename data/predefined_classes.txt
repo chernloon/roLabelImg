@@ -1,7 +1,2 @@
-ship
-plane
-dog
-person
-cat
-tv
-car
+_background_
+passport_type3_mrz
